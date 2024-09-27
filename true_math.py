@@ -11,4 +11,3 @@ def divide(first, second):
 #print(divide(15, 0))
 
 
-#ZeroDivisionError
